@@ -1,4 +1,5 @@
-# Detect Gestures.
+# Detect Gestures
+
 
 #### This program uses the webcam to detect a human's hand motion gesture, and depending on it, does some actions.
 
