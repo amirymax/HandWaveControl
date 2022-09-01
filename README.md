@@ -11,4 +11,4 @@ Motion gestures are the same as the touchpad:
         3. Three fingers right - change to left screen or desktop.
         4. Three fingers down - collapse all the apps. If before that you did three fingers up and you are seeing all the opened apps, it just takes all to the normal view. (i. e. opens the app you were working on)
         
-Attention:  The program works only in windows;
+Attention:  The program works only in Windows OS;
