@@ -1,7 +1,7 @@
 # Detect Gestures
 
 
-#### This program uses the webcam to detect a human's hand motion gesture, and depending on it, does some actions.
+#### This program uses the webcam to detect a human's hand motion gesture, and according to the gesture, perfoms actions.
 
 To make it detect your gesture, you only need to click left mouse button, and release after finished your motion gesture.
 
