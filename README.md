@@ -1,15 +1,32 @@
+Вот обновленное описание для проекта "Detect Gestures" с более профессиональным стилем:
+
+---
+
 # Detect Gestures
 
+**Detect Gestures** is a program that utilizes a webcam to detect and interpret hand motion gestures to perform various actions. Designed for Windows OS, this tool allows users to control their desktop environment through gesture recognition.
 
-#### This program uses the webcam to detect a human's hand motion gesture, and according to the gesture, perfoms actions.
+## Features
 
-To make it detect your gesture, you only need to click left mouse button, and release after finished your motion gesture.
+- **Gesture Recognition:** Detects specific hand gestures to execute predefined actions.
+  ```
+  - Three Fingers Left: Switches to the right screen or desktop.
+  - Three Fingers Up: Opens the task view (similar to Start + Tab) or restores collapsed apps if previously three fingers down gesture was performed.
+  - Three Fingers Right: Switches to the left screen or desktop.
+  - Three Fingers Down: Collapses all apps or restores the previous view if three fingers up gesture was performed.
+  ```
 
-Motion gestures are the same as the touchpad:
+## Usage
 
-        1. Three fingers left - change to right screen or desktop.
-        2. Three fingers up  - the same as Start + tab (see all opened apps). If before that you did three fingers down, it just opens up all the collaped apps
-        3. Three fingers right - change to left screen or desktop.
-        4. Three fingers down - collapse all the apps. If before that you did three fingers up and you are seeing all the opened apps, it just takes all to the normal view. (i. e. opens the app you were working on)
-        
-Attention:  The program works only in Windows OS;
+1. Click the left mouse button to start gesture detection.
+2. Perform the desired hand motion.
+3. Release the mouse button to complete the gesture.
+
+## Requirements
+
+- **Operating System:** Windows
+- **Dependencies:** Requires a webcam for gesture detection.
+
+---
+
+Feel free to adjust or add any details based on additional features or requirements you might have!
