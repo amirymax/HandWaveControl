@@ -2,9 +2,9 @@
 
 ---
 
-# Detect Gestures
+# HandWaveControl
 
-**Detect Gestures** is a program that utilizes a webcam to detect and interpret hand motion gestures to perform various actions. Designed for Windows OS, this tool allows users to control their desktop environment through gesture recognition.
+**HandWaveControl** is a program that utilizes a webcam to detect and interpret hand motion gestures to perform various actions. Designed for Windows OS, this tool allows users to control their desktop environment through gesture recognition.
 
 ## Features
 
